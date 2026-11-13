@@ -1,0 +1,69 @@
+# =============================================
+# Build e compilacao
+# =============================================
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+# =============================================
+# IDEs
+# =============================================
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# Eclipse / STS
+.eclipse/
+.classpath
+.project
+.settings/
+bin/
+
+# VSCode
+.vscode/
+
+# NetBeans
+nbproject/
+nbbuild/
+nbdist/
+.nb-gradle/
+
+# =============================================
+# Logs
+# =============================================
+logs/
+*.log
+*.log.*
+
+# =============================================
+# Arquivos de sistema operacional
+# =============================================
+.DS_Store
+Thumbs.db
+desktop.ini
+ehthumbs.db
+
+# =============================================
+# Credenciais e configuracoes sensiveis
+# =============================================
+src/main/resources/database.properties
+
+# =============================================
+# Maven
+# =============================================
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+# =============================================
+# Temporarios e cache
+# =============================================
+*.tmp
+*.bak
+*.swp
+*.swo
+*~

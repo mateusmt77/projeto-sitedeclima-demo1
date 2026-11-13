@@ -15,6 +15,6 @@ Projeto voltado para treinamento de tecnologias como: Html, Css, JS, Node.js e F
 
 *Prazos de Implementação e Checklist* 
 
-Passo 1 - Definir a arquitetura do projeto / Prazo: 1-2 dias 
-Passo 2 - Definir tecnologias que serão utilizadas / Prazo: 1-2 dias 
-Passo 3 - Aplicar Versionamento Git / Prazo: 1 dia
+1. Passo 1 - Definir a arquitetura do projeto / Prazo: 1-2 dias 
+2. Passo 2 - Definir tecnologias que serão utilizadas / Prazo: 1-2 dias 
+3. Passo 3 - Aplicar Versionamento Git / Prazo: 1 dia

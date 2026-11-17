@@ -52,12 +52,23 @@ ehthumbs.db
 # Credenciais e configuracoes sensiveis
 # =============================================
 src/main/resources/database.properties
+application.properties
 
 # =============================================
 # Maven
 # =============================================
 .mvn/timing.properties
 .mvn/wrapper/maven-wrapper.jar
+
+# =============================================
+# Temporarios e cache
+# =============================================
+*.tmp
+*.bak
+*.swp
+*.swo
+*~
+
 
 # =============================================
 # Temporarios e cache

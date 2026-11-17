@@ -1,0 +1,7 @@
+# =============================================
+# Configuracoes gerais da aplicacao
+# =============================================
+weather.api.base.url=
+weather.api.metrics.unit=
+weather.api.lang=
+weather.api.key=

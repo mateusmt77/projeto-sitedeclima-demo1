@@ -13,4 +13,22 @@
         <maven.compiler.target>17</maven.compiler.target>
     </properties>
 
+    <dependencies>
+        <!-- Declarando dependencia para converter JSON-->
+        <dependency>
+            <groupId>com.google.code.gson</groupId> 
+            <artifactId>gson</artifactId> 
+            <version>2.10.1</version>
+        </dependency>
+
+        <!-- Declarando dependencia para manipular Servlets-->
+        <dependency>
+            <groupId>jakarta.servlet</groupId>
+            <artifactId>jakarta.servlet-api</artifactId>
+            <version>5.0.0</version>
+            
+        </dependency>
+
+    </dependencies>
+
 </project>
